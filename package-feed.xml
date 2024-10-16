@@ -12,8 +12,8 @@
     <item>
       <title>fhir.org.nz.ig.base#3.0.1</title>
       <description>New Zealand base profiles</description>
-      <link>tbc</link>
-      <guid isPermaLink="true">tbc</guid>
+      <link>https://github.com/HL7NZ/nzbase/releases/download/v3.0.1-release-source/package.tgz</link>
+      <guid isPermaLink="true">https://github.com/HL7NZ/nzbase/releases/download/v3.0.1-release-source/package.tgz</guid>
       <dc:creator>HL7NZ</dc:creator>
       <fhir:version>4.0.1</fhir:version>
       <fhir:kind>IG</fhir:kind>
