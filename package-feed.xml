@@ -2,10 +2,10 @@
   <channel>
     <title>HL7 New Zealand FHIR Packages</title>
     <description>New Packages published by HL7NZ</description>
-    <link>https://github.com/HL7NZ/hl7-nz-package-feed/blob/main//package-feed.xml?raw=true</link>
+    <link>https://github.com/HL7NZ/hl7-nz-package-feed/blob/main/package-feed.xml?raw=true</link>
     <generator>HL7, Inc FHIR Publication tooling</generator>
     <lastBuildDate>Fri, 17 Oct 2024 12:34:37 UTC</lastBuildDate>
-    <atom:link href="https://github.com/HL7NZ/hl7-nz-package-feed/blob/main//package-feed.xml?raw=true" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://github.com/HL7NZ/hl7-nz-package-feed/blob/main/package-feed.xml?raw=true" rel="self" type="application/rss+xml"/>
     <pubDate>Fri, 17 Oct 2024 12:34:37 UTC</pubDate>
     <language>en</language>
     <ttl>600</ttl>
@@ -20,4 +20,4 @@
       <pubDate>Fri, 17 Oct 2024 12:34:37 UTC</pubDate>
     </item>
   </channel>
-</rss>
+</rss> 
